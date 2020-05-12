@@ -1,4 +1,4 @@
-scheme: "Dracula"
+scheme: "Dracula 24"
 author: "Laurent Granié based on Dracula Theme (https://spec.draculatheme.com)"
 base00: "282936" # ANSI black          # ---- # Default Background
 base01: "3a3c4e" # color18             # ---  # Lighter Background (Used for status bars)
@@ -8,17 +8,17 @@ base04: "62d6e8" # color20             # +    # Dark Foreground (Used for status
 base05: "e9e9f4" # ANSI white          # ++   # Default Foreground, Caret, Delimiters, Operators
 base06: "f1f2f8" # color21             # +++  # Light Foreground (Not often used)
 base07: "f7f7fb" # ANSI bright white   # ++++ # Light Background (Not often used)                
-base08: "FF5555" # ANSI red            #      # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base08: "FF6E6E" # ANSI red            #      # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 base09: "FFB86C" # ANSI bright orange  #      # Integers, Boolean, Constants, XML Attributes, Markup Link Url
-base0A: "F1FA8C" # ANSI yellow         #      # Classes, Markup Bold, Search Text Background
-base0B: "50FA7B" # ANSI green          #      # Strings, Inherited Class, Markup Code, Diff Inserted
-base0C: "8BE9FD" # ANSI cyan           #      # Support, Regular Expressions, Escape Characters, Markup Quotes
-base0D: "BD93F9" # ANSI blue           #      # Functions, Methods, Attribute IDs, Headings
-base0E: "FF79C6" # ANSI magenta        #      # Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0A: "FFFFA5" # ANSI yellow         #      # Classes, Markup Bold, Search Text Background
+base0B: "69FF94" # ANSI green          #      # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "A4FFFF" # ANSI cyan           #      # Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "D6ACFF" # ANSI blue           #      # Functions, Methods, Attribute IDs, Headings
+base0E: "FF92DF" # ANSI magenta        #      # Keywords, Storage, Selector, Markup Italic, Diff Changed
 base0F: "FFB86C" # ANSI orange         #      # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
-base10: "FF6E6E" # ANSI bright red
-base11: "FFFFA5" # ANSI bright yellow
-base12: "69FF94" # ANSI bright green
-base13: "A4FFFF" # ANSI bright cyan
-base14: "D6ACFF" # ANSI bright blue   
-base15: "FF92DF" # ANSI bright magenta
+base10: "FF5555" # ANSI bright red
+base11: "F1FA8C" # ANSI bright yellow
+base12: "50FA7B" # ANSI bright green
+base13: "8BE9FD" # ANSI bright cyan
+base14: "BD93F9" # ANSI bright blue   
+base15: "FF79C6" # ANSI bright magenta
