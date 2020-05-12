@@ -1,0 +1,24 @@
+scheme: "Horizon Dark 24"
+author: "Laurent Granié based on (https://horizontheme.netlify.app/)"
+base00: "16161C" # ANSI black          # ---- # Default Background
+base01: "232530" # color18             # ---  # Lighter Background (Used for status bars)
+base02: "2E303E" # color19             # --   # Selection Background
+base03: "6F6F70" # ANSI bright black   # -    # Comments, Invisibles, Line Highlighting
+base04: "9DA0A2" # color20             # +    # Dark Foreground (Used for status bars)
+base05: "CBCED0" # ANSI white          # ++   # Default Foreground, Caret, Delimiters, Operators
+base06: "DCDFE4" # color21             # +++  # Light Foreground (Not often used)
+base07: "E3E6EE" # ANSI bright white   # ++++ # Light Background (Not often used)
+base08: "E95678" # ANSI red            #      # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base09: "F6661E" # ANSI bright orange  #      # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "FAC29A" # ANSI yellow         #      # Classes, Markup Bold, Search Text Background
+base0B: "27D796" # ANSI green          #      # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "21BFC2" # ANSI cyan           #      # Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "25B2BC" # ANSI blue           #      # Functions, Methods, Attribute IDs, Headings
+base0E: "B877DB" # ANSI magenta        #      # Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "FAB795" # ANSI orange         #      # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+base10: "DA103F" # ANSI bright red
+base11: "FAB28E" # ANSI bright yellow
+base12: "1EB980" # ANSI bright green
+base13: "1EAEAE" # ANSI bright cyan
+base14: "1D8991" # ANSI bright blue
+base15: "8931B9" # ANSI bright magenta
