@@ -1,0 +1,24 @@
+scheme: "Gruvbox Dark 24"
+author: "Laurent Granié, Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"
+base00: "282828" # ANSI black          # ---- # Default Background
+base01: "3c3836" # color18             # ---  # Lighter Background (Used for status bars)
+base02: "504945" # color19             # --   # Selection Background
+base03: "665c54" # ANSI bright black   # -    # Comments, Invisibles, Line Highlighting
+base04: "bdae93" # color20             # +    # Dark Foreground (Used for status bars)
+base05: "d5c4a1" # ANSI white          # ++   # Default Foreground, Caret, Delimiters, Operators
+base06: "ebdbb2" # color21             # +++  # Light Foreground (Not often used)
+base07: "fbf1c7" # ANSI bright white   # ++++ # Light Background (Not often used)
+base08: "cc2441" # ANSI red            #      # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base09: "fe8019" # ANSI bright orange  #      # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "d79921" # ANSI yellow         #      # Classes, Markup Bold, Search Text Background
+base0B: "98971a" # ANSI green          #      # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "689d6a" # ANSI cyan           #      # Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "458588" # ANSI blue           #      # Functions, Methods, Attribute IDs, Headings
+base0E: "b16286" # ANSI magenta        #      # Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "d65d0e" # ANSI orange         #      # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+base10: "fb4934" # ANSI bright red
+base11: "fabd2f" # ANSI bright yellow
+base12: "b8bb26" # ANSI bright green
+base13: "8ec07c" # ANSI bright cyan
+base14: "83a598" # ANSI bright blue   
+base15: "d3869b" # ANSI bright magenta
